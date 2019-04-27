@@ -1,0 +1,4 @@
+Esa Resolusi 2019
+-Dapat menguasai bahasa pemrograman PHP,MySQL dan Pyhton
+-Dapat mendesign website sendiri
+-Dapat membuat website dengan Bootstrap
